@@ -29,7 +29,7 @@ Favorite Color: Black
 In 5 years: I will be 27 years old
 Fun Fact: My name has 13 letters total
 
-![exercise 1](https://github.com/user-attachments/assets/aa3bb3cf-4620-4366-88a8-cbd02fdabcd5")
+![exercise 1](https://github.com/user-attachments/assets/c3ae37e4-bfdb-4fc4-868f-14e359bc3130)
 
 
 
