@@ -29,7 +29,7 @@ Favorite Color: Black
 In 5 years: I will be 27 years old
 Fun Fact: My name has 13 letters total
 
-![exercise 1](https://github.com/user-attachments/assets/c3ae37e4-bfdb-4fc4-868f-14e359bc3130)
+![exercise 1](https://github.com/user-attachments/assets/2a71635f-d05c-45f3-8ceb-9a1f8c5ea64d)
 
 
 
@@ -64,7 +64,7 @@ Write a script that takes two numbers, performs all basic arithmetic operations 
 5. Console Output 
    - Display all outputs using `console.log()` with clear, informative text.
 
-![exercise 2]("https://github.com/user-attachments/assets/90331a16-5607-4c77-8c2a-051b73483259")
+![exercise 2]("https://github.com/user-attachments/assets/6e5a0c58-c994-47e9-a0c9-103eb6c18484")
 
 
 
