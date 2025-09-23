@@ -64,7 +64,7 @@ Write a script that takes two numbers, performs all basic arithmetic operations 
 5. Console Output 
    - Display all outputs using `console.log()` with clear, informative text.
 
-![exercise 2]("https://github.com/user-attachments/assets/6e5a0c58-c994-47e9-a0c9-103eb6c18484")
+![exercise 2](https://github.com/user-attachments/assets/6e5a0c58-c994-47e9-a0c9-103eb6c18484)
 
 
 
