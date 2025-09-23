@@ -3,11 +3,11 @@
 ##  Practice exercise 1
 ### 📌 Objective
 
-Build a simple script that captures and displays personal information using variables**, template literals*, and basic data types in JavaScript.
+Build a simple script that captures and displays personal information using variables, template literals, and basic data types in JavaScript.
 
 ### 📋 Requirements
 
-1. Declare Variables**  
+1. Variables  
    Create variables to store the following personal details:
    - `firstName` (string)
    - `lastName` (string)
@@ -44,7 +44,7 @@ Write a script that takes two numbers, performs all basic arithmetic operations 
 
 
 ### 📋 Requirements
-1. **Variable Creation**  
+1. Variable Creation  
  Create two variables to store numbers ( `num1`, `num2`)
 
 2. Arithmetic Operations 
