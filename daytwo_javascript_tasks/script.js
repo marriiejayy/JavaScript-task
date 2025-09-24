@@ -1,6 +1,5 @@
  // Task1: Simple Grading System
  
-let score = 85;
 function getGrade(score) {
 
     if (score >= 90) {
@@ -16,15 +15,8 @@ function getGrade(score) {
     }
 }
 
-getGrade(score)
-
 
   // Task2: Discount Calculator
-let price = 3000;
-let isFirstPurchase = false
-let customerType = "student"
-
-
 function calculateDiscount(price, customerType, isFirstPurchase) {
    let discount = 0; 
 
@@ -48,11 +40,9 @@ function calculateDiscount(price, customerType, isFirstPurchase) {
     console.log(`Discount: ${discountedPercent}`);
     console.log(`Final price: $${newFinalPrice}`);
 }
+calculateDiscount(3000, "student", false)
 
-// Task3: Weather Advisor
-let temperature = 40;
-let isRaining = false; 
-
+    // Task3: Weather Advisor
 function weatherAdvice(temperature, isRaining) {
     if (temperature <= 32 && isRaining === true){
         console.log(`freezing rain! Stay inside!`)
@@ -65,10 +55,11 @@ function weatherAdvice(temperature, isRaining) {
     } else if (temperature > 80) {
         console.log(`It's hot, stay hydrated`)
     }
-
 }
 
-// Task4: ATM simulator
+weatherAdvice(40, false) 
+
+    // Task4: ATM simulator
 let balance = 5000;
 let action = "deposit";
 let amount = 2000;
