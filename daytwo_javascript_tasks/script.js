@@ -50,7 +50,7 @@ function calculateDiscount(price, customerType, isFirstPurchase) {
 }
 
 // Task3: Weather Advisor
-let tempertature = 40;
+let temperature = 40;
 let isRaining = false; 
 
 function weatherAdvice(temperature, isRaining) {
@@ -69,6 +69,11 @@ function weatherAdvice(temperature, isRaining) {
 }
 
 // Task4: ATM simulator
+let balance = 5000;
+let action = "deposit";
+let amount = 2000;
+
+
 function atm(balance, action, amount) {
     if (action === "withdraw") {
         if (amount > 2500) {
@@ -89,7 +94,7 @@ function atm(balance, action, amount) {
     }
 }
 
-atm(5000, "deposit", 2000);
+
 
 
 
