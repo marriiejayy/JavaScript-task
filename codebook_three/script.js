@@ -34,3 +34,13 @@ formatList()
 
 
 // Practice exercise two
+    // store grades in an array
+grades = [25, 65, 80, 57, 63, 91, 43, 51, 39, 67];
+console.log("Student grades", grades);
+console.log("");
+
+    //write a function getAverage(grades)
+function getAverage(grades) {
+
+
+}
